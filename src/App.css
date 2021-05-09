@@ -28,3 +28,8 @@
 .searchBtn:hover {
   background-color: #76a4af;
 }
+.result {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
